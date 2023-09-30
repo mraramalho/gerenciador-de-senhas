@@ -5,3 +5,4 @@ __pycache__
 buid/
 lib/
 Scripts/
+.idea/
