@@ -1,0 +1,3 @@
+# Código para criar executável em python:
+# pip install pyinstaller
+# pyinstaller.exe --onefile --icon=nome_do_icone.ico nome_do_arquivo.py
